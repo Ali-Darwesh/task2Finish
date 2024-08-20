@@ -13,6 +13,12 @@ index.php:
      - `edit_post.php`: نموذج لتعديل مقالة موجودة.
      - `delete_post.php`: سكريبت لحذف مقالة.
      - `list_posts.php`: عرض جميع المقالات مع روابط لعرض، تعديل، وحذف كل مقالة.
+classes folder
+    -database class
+    -post class
+    -validation class
+trais folder
+    -ErrorHandler used in both database and post class
 لتشغيل الكود
 1-localhost-وضع الملف في 
 2-فتح database server
