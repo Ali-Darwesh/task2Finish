@@ -8,7 +8,7 @@ class DataBase
     private $username; // Use your MySQL username
     private $password; // Use your MySQL password
     public $conn;     // Database connection
-    //test
+
     public function __construct($servername, $username = "root", $password = "")
     {
         $this->servername = $servername;
